@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
+<h1 align="center">Hi  I'm Satyam Gupta</h1>
 <h3 align="center">I’m passionate about AI/ML, hackathons, and building real-world projects.</h3>
 
 - 🔭 I’m currently working on **innovative ideas to solve challenges in Healthcare and Wellbeing**
