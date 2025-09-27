@@ -1,81 +1,153 @@
-<h1 align="center">Hi  I'm Satyam Gupta</h1>
-<h3 align="center">I’m passionate about AI/ML, hackathons, and building real-world projects.</h3>
+# <div align="center">👋 Hello, I'm **Satyam Gupta**</div>
 
-- 🔭 I’m currently working on **innovative ideas to solve challenges in Healthcare and Wellbeing**
-  
-- 🌱 I’m currently exploring **LLMOPS, LAM, LLAMAINDEX, and LANGCHAIN**
+<div align="center">
 
-- 👯 Want to collaborate? **Join me on my next project or hackathon adventure!**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Innovation+Catalyst;Healthcare+%26+Wellbeing+Tech+Enthusiast;Hackathon+Champion+%26+Project+Builder;Turning+Ideas+into+Reality+with+Code)](https://git.io/typing-svg)
 
-- 🤝 I also work as a **Freelance AI Specialist | Hackathon & Ideathon Enthusiast**
+</div>
 
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/your-profile-link)
+---
 
-- ⚡ **Fun fact:** When I'm not coding or competing in hackathons, I'm either exploring the latest AI breakthroughs, brainstorming startup ideas, or binge-watching sci-fi shows to imagine the future!
+## 🚀 **About Me**
 
-- 💬 Ask me about **AI/ML | Machine Learning | Deep Learning | Generative AI | Computer Vision | Data Science | Data Analysis**
+```python
+class SatyamGupta:
+    def __init__(self):
+        self.name = "Satyam Gupta"
+        self.role = "AI/ML Engineer & Freelance Specialist"
+        self.location = "India 🇮🇳"
+        self.passion = ["Healthcare Innovation", "AI/ML", "Hackathons"]
+        self.current_focus = ["LLMOPS", "LAM", "LlamaIndex", "LangChain"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
-- 📫 Reach me at **issatyamgupta@gmail.com**
+me = SatyamGupta()
+me.say_hi()
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-gupta-41606a28a" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+---
+
+## 🎯 **What I'm Passionate About**
+
+<div align="center">
+
+### 🚀 **My Focus Areas**
+
+🏥 **Healthcare Innovation** • 🧠 **Wellbeing Technology** • 🤖 **Artificial Intelligence**
+
+### 🌱 **Currently Exploring**
+
+🦙 **LlamaIndex** • 🔗 **LangChain** • ⚡ **LLMOPS** • 🎯 **LAM (Language Action Models)**
+
+### 🎪 **What Drives Me**
+
+💡 Turning innovative ideas into reality through code  
+🏆 Competing in hackathons and pushing creative boundaries  
+🤝 Collaborating with like-minded developers and innovators  
+🌟 Building solutions that make a real difference in people's lives
+
+</div>
+
+---
+
+
+
+## 🛠️ **Tech Arsenal**
+
+### **🧠 AI/ML & Data Science**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://d3js.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
+### **☁️ Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+### **🌐 Web & Databases**
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🎮 **Fun Zone**
+
+<details>
+<summary><b>🎯 Click to see my coding philosophy!</b></summary>
+<br>
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**My Development Mantra:**
+- 🚀 **Innovation First** - Always pushing boundaries
+- 🧪 **Experiment Boldly** - Failure is just data
+- 🤝 **Collaborate Actively** - Great ideas need great teams
+- 📚 **Learn Continuously** - The tech world never sleeps
+- 💡 **Solve Real Problems** - Code with purpose
+
+</details>
+
+<details>
+<summary><b>🎲 Random Fun Facts About Me</b></summary>
+<br>
+
+- 🍕 I debug better with pizza nearby
+- 🎵 I code to lo-fi hip-hop playlists
+- 🌟 I believe AI will make the world better
+- 🏃‍♂️ I treat hackathons like marathons (but more fun!)
+- 🚀 My browser bookmarks are 90% AI research papers
+
+</details>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+### 💼 **Professional**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-gupta-41606a28a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issatyamgupta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile-link)
+
+### 🎯 **Looking For**
+- 🚀 **Exciting AI/ML Projects**
+- 🏆 **Hackathon Partners**
+- 💡 **Healthcare Innovation Opportunities**
+- 🤝 **Open Source Collaborations**
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
+
+### 💭 **Quote of the Day**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+**✨ "Building the future, one algorithm at a time" ✨**
+
+*Made with ❤️ and lots of ☕ by Satyam*
+
+</div>
 
