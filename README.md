@@ -108,8 +108,5 @@ class SatyamGupta:
 
 ---
 
-### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 ### 💭 Quote of the Day
 > ✨ "Building the future, one algorithm at a time" ✨
