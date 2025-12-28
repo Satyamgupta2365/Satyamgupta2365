@@ -13,10 +13,10 @@
 ```python
 class SatyamGupta:
     def __init__(self):
-        self.name = "Satyam Gupta"
-        self.role = "AI/ML Engineer | Freelance Specialist"
+        self.name = " सत्यम् गुप्त "
+        self.role = "AI/ML Engineer | Part-time human"
         self.location = "India 🇮🇳"
-        self.passion = ["Healthcare Innovation", "AI/ML", "Hackathons"]
+        self.passion = ["Innovation", "AI/ML", "Hackathons","MCP",]
         self.current_focus = ["LLMOPS", "MLOps", "LAM", "MCP", "AI×MCP Integration"]
 
     def say_hi(self):
