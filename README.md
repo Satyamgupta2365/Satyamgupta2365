@@ -26,8 +26,8 @@ class SatyamGupta:
 ## 🎯 What I Do
 
 ### ✨ Focus Areas
-- 🏥 Healthcare Innovation
-- 🧠 Wellbeing Tech
+- 🏥 Watch Anime and read Manga and Manva
+- 🧠 Tech Innovation
 - 🤖 AI/ML Solutions
 - 🔗 MCP & AI Integration
 
@@ -36,7 +36,7 @@ class SatyamGupta:
 - ⚡ LLMOPS & MLOps
 - 🎯 LAM (Language Action Models)
 - 🔌 MCP (Model Context Protocol)
-- 🤝 AI×MCP Integration
+- 🤝 Research on tech 
 
 ### 🔥 What Drives Me
 - 💡 Turning ideas → code → reality
