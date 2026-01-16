@@ -16,7 +16,7 @@ class SatyamGupta:
         self.name = " सत्यम् गुप्त "
         self.role = "AI/ML Engineer | Part-time human"
         self.location = "India 🇮🇳"
-        self.passion = ["Innovation", "AI/ML", "Hackathons","MCP",]
+        self.passion = ["Innovation", "AI/ML", "Hackathons","MCP","Living life" ]
         self.current_focus = ["LLMOPS", "MLOps", "LAM", "MCP", "AI×MCP Integration"]
 
     def say_hi(self):
